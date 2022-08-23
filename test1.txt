@@ -5,3 +5,7 @@ first line in file
 My 2nd line in file
 Third line in file
 >>>>>>> e5af4b3 (My First commit)
+<<<<<<< HEAD
+=======
+Fourth line in file
+>>>>>>> eef187e (Fourth line is added)
